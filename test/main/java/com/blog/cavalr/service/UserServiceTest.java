@@ -1,6 +1,6 @@
-package com.blog.compsys.service;
+package com.compsys.service;
 
-import com.blog.compsys.entity.User;
+import com.compsys.entity.User;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
